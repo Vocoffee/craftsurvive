@@ -1,2 +1,2 @@
-# craftsurvive
-Just my first site. About nothing, which created 2009.
+# Справочник по выживанию в игре "Minecraft"
+Всем привет, друзья! С вами Кофе, и сегодня я научу вас выживать на поверхности.
